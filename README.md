@@ -104,18 +104,7 @@ If the capture contains chat traffic (commonly IRC on port 6667):
 
 ---
 
-## Findings
 
-| Finding | Value |
-|---|---|
-| Capture file | ________________ |
-| Total packets | __________ |
-| Top protocol | __________ |
-| Top talker | __________ |
-| SYN packets count | __________ |
-| Attacker IP | __________ |
-| Victim IP | __________ |
-| Chat stream number | __________ |
 
 ---
 
